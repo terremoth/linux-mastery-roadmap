@@ -16,7 +16,7 @@ Feel free to _**fork this repo**_ and going checking the items below as soon as 
   - [ ] learn how to customize your system (date format, color scheme, icons, languages, find apps)
 - [ ] learn how to install, search and remove software from the command line with your distro's package manager 
 - [ ] learn to use `nano` text editor
-- [ ] learn to use terminal with GNU basic tools, like: `expr`, `date`, `uname`, `lsb_release`, `cal`, `calendar`, `whoami`, `ping`, `du`, `df`, `free`
+- [ ] learn to use terminal with GNU basic tools, like: `expr`, `date`, `uname`, `lsb_release`, `cal`, `calendar`, `whoami`, `ping`, `du`, `df`, `dd`, `free`
 - [ ] learn to work with files, dirs and streams in terminal: `cd`, `rm`, `ls`, `dir`, `cp`, `mv`, `echo`, `cat`, `tail`, `head`, `wc`, `cmp`, `diff`, `find`, `pwd`, `cut`, `tee`
 - [ ] learn how to get info and help about tools, the system and use things like info and man and log files at `/var/logs`
 - [ ] learn compressing tools like `zip`, `xz`, `gzip` and `tar`
@@ -41,3 +41,5 @@ Feel free to _**fork this repo**_ and going checking the items below as soon as 
 
 ### TO-DO:
 - put some links/guides
+- put some howto's, cheatsheets and fun commands
+- a "where to go from here" / "what now" mini-guide
