@@ -39,7 +39,7 @@ Feel free to _**fork this repo**_ and going checking the items below as soon as 
 - [ ] download and install Arch or Gentoo the old terminal way with its doc's help
 - [ ] become Linux Certified Professional (official certification) 
 - [ ] create a software and distribute it under some package system (like `.deb`, `.rpm`. `.pkg` etc) and setup at some repository download website
-- [ ] make your small and simple linux distro with LFS (Linux From Scratch)
+- [ ] make your small and simple linux distro with LFS (Linux From Scratch) and "Beyond LFS"
 
 ### TO-DO:
 - put some links/guides
