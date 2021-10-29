@@ -1,6 +1,9 @@
 # Roadmap to Mastery Linux Operating Systems
 
-I made with care this roadmap in a way it can easily help you with some strategy to master your linux distro
+I made with care this roadmap in a way it can easily help you with some strategy to master your linux distro.  
+Feel free to _**fork this repo**_ and going checking the items below as soon as you learn!  
+
+---
 
 - [ ] Concepts, A little bit of History, The Open Source and Free Software movements, the Linux Kernel, and why use a Linux Distro?
 - [ ] install some friendly linux distro (like Mint or Manjaro) and make your default day to day use O.S.
