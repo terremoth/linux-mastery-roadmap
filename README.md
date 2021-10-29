@@ -10,7 +10,7 @@ Feel free to _**fork this repo**_ and going checking the items below as soon as 
   - [ ] learn how to connect to internet
   - [ ] learn how to graphically install some software
   - [ ] learn how to graphically updates your entire system
-  - [ ] learn the standar Linux Directory Structure (/home, /media, /etc, /bin, /opt, /tmp etc...)
+  - [ ] learn the standard Linux Directory Structure (/home, /media, /etc, /bin, /opt, /tmp etc...)
   - [ ] learn how to use basic tools like file manager, a text editor, web browser, calculator, email, some GUI compression app, some PDF app and the Libre Office (optional)
   - [ ] learn how to find/configure a printer and print documents and text files
   - [ ] learn how to customize your system (date format, color scheme, icons, languages, find apps)
