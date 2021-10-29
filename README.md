@@ -34,6 +34,7 @@ Feel free to _**fork this repo**_ and going checking the items below as soon as 
 - [ ] compile some program with GCC and make
 - [ ] learn how to manually by command-line connect to wifi using `ip`, `wpa_passphrase` + `wpa_supplicant`, set some dhcp client and let it be automatic
 - [ ] download and compile a Kernel version
+- [ ] ressurect an old computer with some very lightweight Linux Distro like Alpine, Void, TinyCore, Slax, NanoLinux or Lubuntu 
 - [ ] learn to work remotely with `ssh`, `scp` and `rsync`
 - [ ] download and install Arch or Gentoo the old terminal way with its doc's help
 - [ ] become Linux Certified Professional (official certification) 
