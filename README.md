@@ -16,17 +16,19 @@ Feel free to _**fork this repo**_ and going checking the items below as soon as 
   - [ ] learn how to customize your system (date format, color scheme, icons, languages, find apps)
 - [ ] learn how to install, search and remove software from the command line with your distro's package manager 
 - [ ] learn to use `nano` text editor
-- [ ] learn to use terminal with GNU basic tools, like: `expr`, `date`, `uname`, `lsb_release`, `cal`, `calendar`, `whoami`, `ping`, `du`, `df`, `dd`, `free`
-- [ ] learn to work with files, dirs and streams in terminal: `cd`, `rm`, `ls`, `dir`, `cp`, `mv`, `echo`, `cat`, `tail`, `head`, `wc`, `cmp`, `diff`, `find`, `pwd`, `cut`, `tee`
+- [ ] learn to use terminal with GNU basic tools, like: `expr`, `date`, `pwd`, `uname`, `clear`, `reset`, `file`, `lsb_release`, `cal`, `calendar`, `who`, `whoami`, `uptime`, `ping`, `du`, `df`, `dd`, `free`, `sleep`, `history`, `bc`, `alias` and your `.bashrc` file
+- [ ] learn how to redirect standard output and errors (stdout and stderr)
+- [ ] learn to work with files, dirs and streams in terminal: `cd`, `rm`, `ls`, `touch`, `less`, `dir`, `cp`, `mkdir`, `rmdir`, `mv`, `echo`, `cat`, `tail`, `head`, `wc`, `cmp`, `diff`, `patch`, `find`, `pwd`, `cut`, `tee`, `ln`, `nl`, `tr`, `fmt`, `lsof`
 - [ ] learn how to get info and help about tools, the system and use things like info and man and log files at `/var/logs`
 - [ ] learn compressing tools like `zip`, `xz`, `gzip` and `tar`
 - [ ] learn about users, groups and permissions commands like `su`, `sudo`, `passwd`, `chgroup`, `chmod` and `chown`
 - [ ] learn to use pipe ("|"), `sort`, `uniq`, `shuf`, `sed`, `grep` and `awk`
 - [ ] learn shell scripting (variables, math, conditions, loops, functions, get user input, use with other tools etc) and use `source`, `xargs` and `time` command
 - [ ] learn `vim` or `emacs` (as advanced text editors)
-- [ ] learn about linux processes, services an jobs, using tools like `ps`, `pgrep`, `pstree`, `kill`, `killall`, `pidof`, `top`, `htop`, `bg`, `fg`, `crontab` and `systemctl`
+- [ ] learn about linux processes, services an jobs, using tools like `ps`, `pgrep`, `pstree`, `kill`, `killall`, `pidof`, `top`, `htop`, `jobs`, `bg`, `fg`, `crontab` and `systemctl`
 - [ ] learn how to see hardware info with `lshw`, `dstat`, `lsusb`, `lspci` and `usbview`
 - [ ] learn to use kernel modules with `lsmod`, `modinfo`, `modprobe`, `insmod`, `rmmod` and `usbmodules`
+- [ ] learn how to check filesystems and work with partitions, like `fsck`, `fdisk` and `cfdisk`
 
 ---
 ## Optional Goals to Achieve in life using Linux
